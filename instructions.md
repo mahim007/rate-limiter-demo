@@ -1,9 +1,13 @@
 # For Compiling/Testing/Packaging/Running the project:
 
-### For compilation: go to the project's root directory and run the command in terminal: mvn clean compile
-### For testing (integration test): run the command: mvn clean test
-### For Packaging: run the following command: mvn clean package
-### To run the project: use the following command:  mvn spring-boot:run
+### For compilation:
+go to the project's root directory and run the command in terminal: mvn clean compile
+### For testing (integration test):
+run the command: mvn clean test
+### For Packaging: 
+run the following command: mvn clean package
+### To run the project:
+use the following command:  mvn spring-boot:run
 
 ## API description
 1. http://localhost:8080/  > to invoke the homepage/non rate limited path
