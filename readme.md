@@ -22,3 +22,5 @@ This application provides 5 HTTP APIs to expose its services. They are,
 9. H2 in-memory database is used here to achieve portability, ease of use/run/test/deploy.
 10. A custom implementation of CommandLineRunner is used to bootstrap the h2 database with data from the csv file.
 11. JPA and Lombok are used to achieve annotation driven DB model and POJO creation.
+
+## Please read the instructions.md file to compile/test/run the project
